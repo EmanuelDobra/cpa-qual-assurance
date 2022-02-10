@@ -44,3 +44,15 @@ Can the input be changed during or after the value is given
 - Is the output on the device accurate?
 - Is the equipment moving? IE in ambulance or boat?
 - Can movement deter its range?
+
+
+## IT Role with respect to ethics and behavior. 
+- Making sure to have a manual for the security or follow the manual
+- Checking for mysql injections in data entry forms
+- Not going beyond my authority even though it seems okay? 
+- Having a regular inspection about the process
+- As IT professionals we need to make sure the data we are in charge of is only available to those who are allowed access, including blocking access to those who are managing it. 
+
+
+
+
