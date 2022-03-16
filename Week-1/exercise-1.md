@@ -56,3 +56,12 @@ Can the input be changed during or after the value is given
 
 
 
+```
+Scenario: your consulting company just received a new contract to provide user support for an internet/intranet based application. The application has been running successfully for three years. The application runs on web enabled laptops. A client calls to report that their laptop has been using this application without problems for 6 months. It stopped working today. Think about what you need to know to help this user. Think about what questions you need to ask to provide context. List 3 - 5 unique questions. The best 3 will be graded. The questions you write down should not be the same theme.
+```
+
+1. Does the application have a subscription system that might of ran out after those 6 months?
+2. List all that the client has done on the laptop within the period of their last successful use of our application until today when they reported the issue.
+3. What does the client mean when they say that the application stopped working? Specify which parts or features do not work anymore.
+4. Are there any error messages that the client has received?
+5. Are there any outside issues surrounding the client, such as the loss of internet, that could of caused this issue.
